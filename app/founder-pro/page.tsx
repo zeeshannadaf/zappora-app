@@ -1,0 +1,1 @@
+export default function FounderPro() { return <h2>Founder Pro Dashboard</h2>; }

@@ -1,0 +1,1 @@
+export default function Agenti() { return <h2>Agenti AI UI here</h2>; }
